@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lomeliaiengineer
 - 👀 I’m interested in Chatbots, NLP and Machine Learning
 - 🌱 I’m currently learning Machine Learning and Supervised learning
-- 💞️ I’m looking to collaborate on AI projects that improves people's lives
+- 💞️ I’m looking to collaborate on AI projects that improve people's lives
 
 
 <!---
